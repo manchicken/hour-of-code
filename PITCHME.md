@@ -10,7 +10,7 @@ Theme: Modern
 
 ---
 
-# What is Code?
+## What is Code?
 
 - Instructions for the computer
 - Mathematical representation
@@ -19,7 +19,7 @@ Theme: Modern
 
 ---
 
-# My code story
+## My code story
 
 - I started programming when I was 7 years old
 - When I was 16, I did my first job with code
@@ -28,7 +28,7 @@ Theme: Modern
 
 ---
 
-# Why do I like code?
+## Why do I like code?
 
 - Code lets me think
 - Code lets me find my own mistakes
@@ -38,7 +38,7 @@ Theme: Modern
 
 ---
 
-# Code can be hard
+## Code can be hard
 
 - People all make mistakes
 - Learning is not something you ever finish
@@ -47,7 +47,7 @@ Theme: Modern
 
 ---
 
-# Vocabulary for Today
+## Vocabulary for Today
 
 - Bug: Unwanted behavior in the program
 - Function: A piece of code which has one job
