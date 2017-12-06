@@ -1,9 +1,3 @@
-Author: Mike Stemle
-Title: Hour of Code
-Theme: Modern 
-
----
-
 # Hour of Code
 
 ## 2017-12-06
