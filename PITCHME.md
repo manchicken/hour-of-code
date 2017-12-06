@@ -49,4 +49,11 @@
 - Operator: A symbol which has a job, usually math
     + &gt;, &lt;, +, -, =, !, *, &, %
 - Integer: A whole number (1, but not 1.23)
-- Decimal: Any number, including those that have precision (3.141
+- Decimal: Any number, including those that have precision (3.141)
+
+---
+
+## An algorithm
+
+- A recipe for solving a common problem with code
+- An algorithm can be measured even without code
